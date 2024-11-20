@@ -2,6 +2,10 @@
 
 Este template te permite crear una galería de fotos sencilla usando Jekyll, un generador de sitios estáticos.
 
+## Vista previa
+
+![imagen1](https://raw.githubusercontent.com/EduardoHernandezGuzman/jekyll-photo-gallery-template/master/screenshots/img0000.png)
+
 ## Tecnologías usadas:
 
 * **Jekyll:** Generador de sitios estáticos escrito en Ruby.
